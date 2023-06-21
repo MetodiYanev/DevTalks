@@ -1,0 +1,6 @@
+{
+  "IMAGE_API_URL": "https://api.unsplash.com/",
+  "IMAGE_API_PUB_KEY": "RC7Nq8tLS1I8QZFv4YF4XB94jVwsKngzt4hORWJPsZw",
+  "SUPABASE_API_URL": "https://ozevhvwgslryqydqgmmb.supabase.co",
+  "SUPABASE_PUB_API_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im96ZXZodndnc2xyeXF5ZHFnbW1iIiwicm9sZSI6ImFub24iLCJpYXQiOjE2ODczNTEwNzYsImV4cCI6MjAwMjkyNzA3Nn0.gHlvhxIs2UtTxz2ppUNPK2USbww9XmF2c1mFh4jdNVc"
+}
