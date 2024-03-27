@@ -23,7 +23,7 @@ const Dashboard = () => {
           <Icon name="user" color="black" type="font-awesome-5" solid />
         </Button>
         <Button
-          onPress={() => setCurrentScreen('Game')}
+          onPress={() => setCurrentScreen('AlpacaOrLlama')}
           buttonStyle={{backgroundColor: colors.coolest_purple}}
           containerStyle={[
             styles.navButton,
