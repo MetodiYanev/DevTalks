@@ -1,5 +1,7 @@
+import React from 'react';
 import {View, StyleSheet} from 'react-native';
 import {QueryClient, QueryClientProvider} from '@tanstack/react-query';
+import CodePush from 'react-native-code-push';
 
 import Login from './screens/Login';
 import Dashboard from './screens/Dashboard';
@@ -31,7 +33,7 @@ const App = () => {
   );
 };
 
-export default App;
+export default CodePush(App);
 
 const styles = StyleSheet.create({
   container: {
